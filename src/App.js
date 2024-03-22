@@ -1,10 +1,25 @@
 
 import './App.css';
+import './impImages.js';
 
 function App() {
   return (
     <div className="App">
-      <h1>oi ola</h1>
+
+
+      <div className='btnmusic'>
+        <button>adicionar musica</button>
+                </div>
+
+        <div className='list'>
+          <div className='msc'>
+            
+
+            
+            </div>
+        </div>
+
+
     </div>
   );
 }
